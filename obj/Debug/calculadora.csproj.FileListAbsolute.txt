@@ -1,0 +1,9 @@
+C:\Users\formando\Desktop\C#\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\formando\Desktop\C#\calculadora\bin\Debug\calculadora.exe
+C:\Users\formando\Desktop\C#\calculadora\bin\Debug\calculadora.pdb
+C:\Users\formando\Desktop\C#\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\formando\Desktop\C#\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\formando\Desktop\C#\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\formando\Desktop\C#\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\formando\Desktop\C#\calculadora\obj\Debug\calculadora.exe
+C:\Users\formando\Desktop\C#\calculadora\obj\Debug\calculadora.pdb
